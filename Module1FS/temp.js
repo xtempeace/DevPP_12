@@ -14,4 +14,4 @@ function fn()
 }
 console.log("109:",a);
 fn();
-console.log("111:",a);
+console.log("111:",a);n
