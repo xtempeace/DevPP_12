@@ -36,7 +36,5 @@ function getPlayerDetail(html)
       console.log(content);
     }
   }
-
-
 }
 
